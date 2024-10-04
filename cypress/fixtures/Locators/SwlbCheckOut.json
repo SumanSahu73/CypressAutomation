@@ -1,0 +1,11 @@
+{
+    "goToCheckOut": ".shopping_cart_link",
+    "verifyCheckOutPage": ".title",
+    "clickCheckOut": "Checkout",
+    "getFirstname": "Fisrt Name",
+    "getLasttname": "Last Name",
+    "getZipCode": "Zip/Postal Code",
+    "getContinue": "Continue"
+    
+}
+

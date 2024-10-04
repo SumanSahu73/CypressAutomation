@@ -1,0 +1,7 @@
+{
+    "getUsername": "#user-name",
+    "getPassword": "#password",
+    "SwagLogin": "#login-button",
+    "VerifyHomePage": "div.page_wrapper div:nth-child(1) div.header_container:nth-child(1) div.header_secondary_container > span.title"
+}
+

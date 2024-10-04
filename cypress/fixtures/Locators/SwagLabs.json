@@ -1,0 +1,12 @@
+{
+    "ItemNameLable": ".cart_item_label a",
+    "removeButton": ".cart_item_label > .item_pricebar button",
+    "SelectItemNameBox": ".inventory_item_name",
+    "AddButton": ".inventory_item_description div:nth-child(2) button",
+    "PriceBox": ".item_pricebar",
+    "GetTotalAmountBox": ".summary_subtotal_label",
+    "GetTaxAmountBox": ".summary_tax_label",
+    "GetTotalAmountWithTaxBox": ".summary_total_label",
+    "ConfirmMsgBox": ".complete-header"
+   
+}

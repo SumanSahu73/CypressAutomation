@@ -1,0 +1,13 @@
+{
+    "getPlaceorder": ".col-lg-1 > .btn",
+    "getName": "#name",
+    "getCountry": "#country",
+    "getCity": "#city",
+    "getCreditCard": "#card",
+    "getMonth": "#month",
+    "getYear": "#year",
+    "getPurchase": "#orderModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary",
+    "verifyPurchase": ".sweet-alert > h2",
+    "getOk": ".confirm",
+    "closePlaceOrderPop":"#orderModal > .modal-dialog > .modal-content > .modal-header > .close > span"
+}

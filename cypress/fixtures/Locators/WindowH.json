@@ -1,0 +1,6 @@
+{
+    "url": "https://demo.automationtesting.in/Windows.html",
+    "DownloadBtn": "#Tabbed > a",
+    "RequestUrl" : "https://www.selenium.dev/"
+    
+}

@@ -1,0 +1,9 @@
+{
+    "GoToLoginPage": "#login2",
+    "getUserName": "#loginusername",
+    "getPassword": "#loginpassword",
+    "CloseLoginPop": "#logInModal > .modal-dialog > .modal-content > .modal-header > .close > span",
+    "Login": "#logInModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary",
+    "VerifyLogin": "#nameofuser"
+}
+

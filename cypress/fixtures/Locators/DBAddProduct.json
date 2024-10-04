@@ -1,0 +1,10 @@
+{
+
+"getItem": ":nth-child(3) > .card > .card-block > .card-title > .hrefch",
+"getTextItem": ".name",
+"AddToCart": ".col-sm-12 > .btn",
+"Cart": ":nth-child(4) > .nav-link",
+"Home": ".active > .nav-link"
+
+}
+

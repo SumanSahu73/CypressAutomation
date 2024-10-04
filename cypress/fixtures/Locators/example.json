@@ -1,0 +1,29 @@
+{
+  
+    "name": "Suman",
+    "gender": "Female",
+    "country":"India",
+    "city":"Raipur",
+    "creditCard":"123456789123",
+    "month":"August",
+    "year":"2023",
+    "productName": ["Blackberry","iphone X","Nokia Edge"],
+    "itemName":["MacBook air", "Sony vaio i7","Sony vaio i5","Dell i7 8gb"],
+    "Username": "Chanchal",
+    "Password": "chanchal",
+    "SwagUserName": "standard_user",
+    "SwagPassword": "secret_sauce",
+    "FirstName": "Nisha",
+    "LastName": "Sahu",
+    "zipCode": "435213",
+    "LoginBtn": "//body[1]/div[3]/div[1]/div[1]/div[3]/button[2]",
+    "Usernamebox":"//body[1]/nav[1]/div[1]/ul[1]/li[7]/a[1]",
+    "Laptop":"//body[1]/div[5]/div[1]/div[1]/div[1]/a[3]",
+    "Macbook":"//body[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/h4[1]/a[1]",
+    "SwagProductName": ["Sauce Labs Backpack", "Sauce Labs Bike Light", "Sauce Labs Bolt T-Shirt","Sauce Labs Onesie","Sauce Labs Fleece Jacket"],
+    "RemoveItem": ["Sauce Labs Backpack"],
+    "ApiUrl": "https://reqres.in/",
+    "GET1Button": "div.container:nth-child(2) div.home-content div.wrap section.console.try-api-links:nth-child(4) div.endpoints ul:nth-child(1) > li.active:nth-child(1)"
+   
+  }
+  

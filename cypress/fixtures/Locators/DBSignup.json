@@ -1,0 +1,8 @@
+{
+    "getSignUp":"#signin2",
+    "getSignUpUserName": "#sign-username",
+    "getSignUpPassword": "#sign-password",
+    "SignUp": "#signInModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary",
+    "CloseSignUp": "#signInModal > .modal-dialog > .modal-content > .modal-header > .close > span"
+}
+

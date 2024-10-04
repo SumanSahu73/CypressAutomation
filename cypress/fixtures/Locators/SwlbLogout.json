@@ -1,0 +1,6 @@
+{
+    "getMenu":"#react-burger-menu-btn",
+    "getLogOut":"#logout_sidebar_link",
+    "verifyLogOut":"#login_credentials > h4"
+   
+}
